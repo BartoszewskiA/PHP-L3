@@ -1,0 +1,8 @@
+To jest mój pierwszy post;To jest treść naszego postu.
+To jest treść naszego postu. To jest treść naszego postu.
+I to na tyle;Artur;To jest mój drugo post;aaaaaa To jest treść naszego postu.
+To jest treść naszego postu. To jest treść naszego postu.
+I to na tyle;Artur B;To jest mój kolejnypost;   $plik = @fopen("baza.txt", "r");<br>
+    if (!($plik)) {<br>
+        echo "Jeszcze nie ma żadnych wpisów";<br>
+};Jan;
